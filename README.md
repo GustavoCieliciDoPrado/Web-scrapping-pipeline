@@ -7,7 +7,7 @@
 <p>.In this project I will be attempting to create an API from Scratch and connect it to a postgreSQL Database.
 .I aim to also utilise Python in order to visualise and manipulate the data that will be fetched from the API.</p>
 ------------------------------------------------------------------------------------------------------------------------------------------
-Goals and learning outcomes- <br>
+<h4>Goals and learning outcomes-</h4> <br>
 .My goal is to create a working API that will return me the nescessary data for me to analyse and build reports on that could be comercially sold.
 .I inted to use this project as a learning opportuinity to expand my skill set as a developer, data analyst and data engineer.
 .I also want to use this as part of a portfolio for my career in Data Engineer.
